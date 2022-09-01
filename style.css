@@ -1,0 +1,23 @@
+.h1
+{
+    text-align: center;
+     background-color: black;
+      color: blueviolet;
+}
+
+body{
+    background-color: bisque;
+}
+
+.h2{
+    color: rgb(217, 0, 255);
+}
+
+.h3{
+    color: red;
+}
+
+footer{
+    color: rgb(124, 0, 128);
+}
+
